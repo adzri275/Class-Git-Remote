@@ -7,10 +7,14 @@ ini line ke 6
 ini line ke 7
 ini line ke 8
 ini line ke 9
-ini line ke 10
+ini ubah line ke 10
 ini line ke 11
+<<<<<<< HEAD
 ini line ke 12
 ini line ke 13
 ini line ke 14
 ini line ke 15
 ini line ke 16
+=======
+ini line ke 12 g di ubah
+>>>>>>> master2
